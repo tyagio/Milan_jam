@@ -4,9 +4,9 @@ Control two characters traversing in opposite gravities and
 help them both make it to the end by using clever platforming and
 flipping the gravity of objects and switching between the characters.
 
-AD to move left and right 
-Spacebar to jump/double jump/wall jump 
-Z to switch characters
+AD to move left and right  
+Spacebar to jump/double jump/wall jump   
+Z to switch characters  
 
 ![Screenshot (84)](https://user-images.githubusercontent.com/80507825/174788390-853ebab6-e063-4922-8b51-6581aa32a79c.png)
 
